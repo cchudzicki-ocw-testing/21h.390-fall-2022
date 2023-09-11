@@ -11,3 +11,7 @@ leftnav:
   name: Readings
   pageRef: /pages/readings
   weight: 30
+- identifier: 5423a679-f998-4cbb-bcc1-cc48fc86f8c4
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
