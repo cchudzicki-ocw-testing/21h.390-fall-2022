@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 679aaf2c-fc22-4315-a336-52cb3d443ce7
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
