@@ -3,3 +3,7 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
+- identifier: 2ca6cecf-6bcb-40c1-8bb8-2d4d41311272
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
