@@ -5,3 +5,6 @@ draft: false
 title: Syllabus
 uid: 679aaf2c-fc22-4315-a336-52cb3d443ce7
 ---
+### Course Meeting Times
+
+Lectures: 1 session / week; 3 hours / session
