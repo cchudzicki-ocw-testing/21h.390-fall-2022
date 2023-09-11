@@ -24,3 +24,25 @@ Please browse this article: Mike Featherstone, "[Archive](https://journals.sagep
 ### Week Four: How do Historians use Theory?
 
 ### Week Five: NO CLASS, Student Holiday: Proposals for the final paper due
+
+Assignment due: Paper topics, bibliography, and preliminary research. These digitized archives might be a good place to start.
+
+## III.              Sources Used by Historians
+
+### Week Six: Writing from a Diary: Midwife’s Tale in Maine, 1785–1812
+
+View: *A Midwife’s Tale.* Directed by Richard P. Rogers. Color, 1998.
+
+### Week Seven: Writing from Environment
+
+### Week Eight: Doing Conceptual History: Japan
+
+### Week Nine: Writing from Oral Sources: Nairobi, Kenya
+
+### Week 10: History, Commemoration, and Truth and Reconciliation
+
+### Week 11: NO CLASS: Thanksgiving
+
+### Weeks 12 and 13: Research presentations
+
+### Week 14: Research papers due
