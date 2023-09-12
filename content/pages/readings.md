@@ -45,6 +45,8 @@ uid: a0b11dfa-cb8e-41f4-8ff7-d699e9429a57
 
 *Why is Haiti poor?*
 
+- Anthony P.  Maingot, [“Haiti: What Can be Done?,” (PDF)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B7903C96D3ECC7CB591E2E7EBC172108/S0023879100010840a.pdf/haiti-what-can-be-done.pdf) *Latin American Research Review* 48, no. 1 (2013): 228–35.
+
 ### Week Four: How do Historians use Theory?
 
 Assignment due: Response paper
