@@ -34,11 +34,16 @@ uid: a0b11dfa-cb8e-41f4-8ff7-d699e9429a57
 
 *Was Abraham Lincoln gay?*
 
-- David Herbert Donald, *We Are Lincoln Men: Abraham Lincoln and His Friends, pp. 29–64* (Simon & Schuster, 2003). ISBN: ‎9780743254687. \[Preview with [Google Books](https://www.google.com/books/edition/We_Are_Lincoln_Men/4JsrtHTWy_YC?hl=en&gbpv=1)\]
+- David Herbert Donald, *We Are Lincoln Men: Abraham Lincoln and His Friends,* pp. 29–64 (Simon & Schuster, 2003). ISBN: ‎9780743254687. \[Preview with [Google Books](https://www.google.com/books/edition/We_Are_Lincoln_Men/4JsrtHTWy_YC?hl=en&gbpv=1)\]
 - C.A. Tripp, *The Intimate World of Abraham* *Lincoln,* pp. 1–21 (Free Press, 2005). ISBN: 9780743266390. \[Preview with [Google Books](https://www.google.com/books/edition/The_Intimate_World_of_Abraham_Lincoln/Q8zHX_ldRd4C?hl=en&gbpv=1)\]
 - Christopher Capozzola, “[The Gay Lincoln Controversy](http://archive.boston.com/news/globe/ideas/articles/2005/01/16/the_gay_lincoln_controversy?pg=full),” *Boston Globe,* January 16, 2005.  
 
 *Why did Truman drop the bomb?*
+
+- Michael Sherry, “The Slide to Total Air War,” *New Republic,* December 16, 1981.
+- Henry L. Stimson, “[The Decision to Use the Atomic Bomb](https://muse.jhu.edu/article/435287/summary),” *Harper’s Magazine* 194, no. 1161 (1947): 97–107.
+
+*Why is Haiti poor?*
 
 ### Week Four: How do Historians use Theory?
 
