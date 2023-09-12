@@ -40,7 +40,7 @@ Assignments due: 
 
 ### Week Six: Writing from a Diary: Midwife’s Tale in Maine, 1785–1812
 
-View: *A Midwife’s Tale.* Directed by Richard P. Rogers. Color, 1998.
+View: [*A Midwife’s Tale*](https://www.imdb.com/title/tt0117044/?ref_=fn_al_tt_2)*.* Directed by Richard P. Rogers. Color, 1998.
 
 Assignment due: Response paper
 
@@ -68,4 +68,4 @@ Assignment due: Response paper
 
 ### Week 14
 
-Assignment due: Research paper
+Assignment due: Final paper
