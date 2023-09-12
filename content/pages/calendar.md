@@ -29,11 +29,11 @@ Assignment due: Response paper
 
 Assignment due: Response paper
 
-### Week Five: NO CLASS, Student Holiday: Proposals for the final paper due
+### Week Five: NO CLASS
 
 Assignments due: 
 
-- Paper topics, bibliography, and preliminary research. These digitized archives might be a good place to start.
+- Paper topics, bibliography, and preliminary research for the final paper due. These digitized archives might be a good place to start.
 - Response paper
 
 ## III. Sources Used by Historians
