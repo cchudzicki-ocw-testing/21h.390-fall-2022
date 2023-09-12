@@ -5,9 +5,11 @@ draft: false
 title: Calendar
 uid: 2ca6cecf-6bcb-40c1-8bb8-2d4d41311272
 ---
-## I.               Introduction
+## I. Introduction
 
 ### Week One: Introduction: How do historians think?
+
+Assignment due: Response paper
 
 ### Week Two: Writing from an Archive: Race, Slavery, and American Universities
 
@@ -17,32 +19,53 @@ Craig Steven Wilder, “Prologue” and “Epilogue,” in *Ebony and Ivy: Race,
 
 Please browse this article: Mike Featherstone, "[Archive](https://journals.sagepub.com/doi/abs/10.1177/0263276406023002106)." *Theory, Culture & Society* 23, no. 2–3 (2006): 591–96.  
 
-## II.              Historical Analysis and Interpretation
+## II. Historical Analysis and Interpretation
 
 ### Week Three: What is a good question? Historiographical and empirical contexts
 
+Assignment due: Response paper
+
 ### Week Four: How do Historians use Theory?
+
+Assignment due: Response paper
 
 ### Week Five: NO CLASS, Student Holiday: Proposals for the final paper due
 
-Assignment due: Paper topics, bibliography, and preliminary research. These digitized archives might be a good place to start.
+Assignments due: 
 
-## III.              Sources Used by Historians
+- Paper topics, bibliography, and preliminary research. These digitized archives might be a good place to start.
+- Response paper
+
+## III. Sources Used by Historians
 
 ### Week Six: Writing from a Diary: Midwife’s Tale in Maine, 1785–1812
 
 View: *A Midwife’s Tale.* Directed by Richard P. Rogers. Color, 1998.
 
+Assignment due: Response paper
+
 ### Week Seven: Writing from Environment
+
+Assignment due: Response paper
 
 ### Week Eight: Doing Conceptual History: Japan
 
+Assignment due: Response paper
+
 ### Week Nine: Writing from Oral Sources: Nairobi, Kenya
+
+Assignment due: Response paper
 
 ### Week 10: History, Commemoration, and Truth and Reconciliation
 
+Assignment due: Response paper
+
 ### Week 11: NO CLASS: Thanksgiving
 
-### Weeks 12 and 13: Research presentations
+### Week 12: Research presentations
 
-### Week 14: Research papers due
+### Week 13: Research presentations
+
+### Week 14
+
+Assignment due: Research paper
