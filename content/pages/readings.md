@@ -69,9 +69,9 @@ No readings assigned.
 
 *Read:*
 
-Laurel Thatcher Ulrich, *A Midwife’s Tale: The Life of Martha Ballard, Based on Her Diary, 1785–1812,* pp*.* 1–35, 162–65, 346–52 (Vintage, 1991). ISBN: ‎9780679733768. \[Preview with [Google Books](https://www.google.com/books/edition/A_Midwife_s_Tale/Qa_MpVB06YUC?hl=en&gbpv=1)\]
+Laurel Thatcher Ulrich, *A Midwife’s Tale: The Life of Martha Ballard, Based on Her Diary, 1785–1812,* pp. 1–35, 162–65, 346–52 (Vintage, 1991). ISBN: ‎9780679733768. \[Preview with [Google Books](https://www.google.com/books/edition/A_Midwife_s_Tale/Qa_MpVB06YUC?hl=en&gbpv=1)\]
 
-Alexandra Garbarini, *Numbered Days: Diaries and the Holocaust,* pp. ix–xiii, 22–57, 129–61, 162–67*.* (Yale University Press, 2006). ISBN: 9780300112528. \[Preview with [Google Books](https://www.google.com/books/edition/Numbered_Days/utBBco6EQEEC?hl=en&gbpv=1)\]
+Alexandra Garbarini, *Numbered Days: Diaries and the Holocaust,* pp. ix–xiii, 22–57, 129–61, 162–67. (Yale University Press, 2006). ISBN: 9780300112528. \[Preview with [Google Books](https://www.google.com/books/edition/Numbered_Days/utBBco6EQEEC?hl=en&gbpv=1)\]
 
 ### Week Seven: Writing from Environment
 
