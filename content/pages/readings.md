@@ -57,18 +57,17 @@ uid: a0b11dfa-cb8e-41f4-8ff7-d699e9429a57
 
 ### Week Five: NO CLASS
 
-Assignments due: 
-
-- Paper topics, bibliography, and preliminary research for the final paper due. These digitized archives might be a good place to start.
-- Response paper
+No readings assigned.
 
 ## III. Sources Used by Historians
 
 ### Week Six: Writing from a Diary: Midwife’s Tale in Maine, 1785–1812
 
-View: [*A Midwife’s Tale*](https://www.imdb.com/title/tt0117044/?ref_=fn_al_tt_2)*.* Directed by Richard P. Rogers. Color, 1998.
+*View:* 
 
-Assignment due: Response paper
+[*A Midwife’s Tale*](https://www.imdb.com/title/tt0117044/?ref_=fn_al_tt_2)*.* Directed by Richard P. Rogers. Color, 1998.
+
+*Read:*
 
 ### Week Seven: Writing from Environment
 
