@@ -81,7 +81,7 @@ No readings assigned.
 
 ### Week Eight: Doing Conceptual History: Japan
 
-Assignment due: Response paper
+Eiko Maruko Siniawer, *Waste: Consuming Postwar Japan* (Cornell University Press, 2018). ISBN: ‎9781501725845. \[Preview with [Google Books](https://www.google.com/books/edition/Waste/1kFQDwAAQBAJ?hl=en&gbpv=1)\] 
 
 ### Week Nine: Writing from Oral Sources: Nairobi, Kenya
 
