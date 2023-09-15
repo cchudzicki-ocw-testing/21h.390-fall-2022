@@ -81,15 +81,20 @@ No readings assigned.
 
 ### Week Eight: Doing Conceptual History: Japan
 
-Eiko Maruko Siniawer, *Waste: Consuming Postwar Japan* (Cornell University Press, 2018). ISBN: ‎9781501725845. \[Preview with [Google Books](https://www.google.com/books/edition/Waste/1kFQDwAAQBAJ?hl=en&gbpv=1)\] 
+- Eiko Maruko Siniawer, *Waste: Consuming Postwar Japan* (Cornell University Press, 2018). ISBN: ‎9781501725845. \[Preview with [Google Books](https://www.google.com/books/edition/Waste/1kFQDwAAQBAJ?hl=en&gbpv=1)\] 
 
 ### Week Nine: Writing from Oral Sources: Nairobi, Kenya
 
-Kenda Mutongi, *Matatu: A History of Popular Transportation in Nairobi* (University of Chicago Press, 2017). ISBN: ‎9780226471396. \[Preview with [Google Books](https://www.google.com/books/edition/Matatu/X5YtDwAAQBAJ?hl=en&gbpv=1)\]
+- Kenda Mutongi, *Matatu: A History of Popular Transportation in Nairobi* (University of Chicago Press, 2017). ISBN: ‎9780226471396. \[Preview with [Google Books](https://www.google.com/books/edition/Matatu/X5YtDwAAQBAJ?hl=en&gbpv=1)\]
 
 ### Week 10: History, Commemoration, and Truth and Reconciliation
 
-Assignment due: Response paper
+- David Thelen, “[How the Truth and Reconciliation Commission Challenges the Ways We Use History](https://www.tandfonline.com/doi/abs/10.1080/02582470208671439?journalCode=rshj20).” *South African Historical Journal* 47 (2002): 162–90.
+- Richard H. Kohn, “[History and the Culture Wars: The Case of the Smithsonian Institution’s Enola Gay Exhibition](https://www.jstor.org/stable/2945111).” *Journal of American History* 82, no. 3 (1995): 1036–63.
+- American Historical Association, “[Statement on Confederate Monuments ( August 2017)](https://www.historians.org/news-and-advocacy/aha-advocacy/aha-statement-on-confederate-monuments).”
+- Graham Allison and Niall Ferguson, “[Why the US President Needs a Council of Historians](https://www.theatlantic.com/magazine/archive/2016/09/dont-know-much-about-history/492746/),” *Atlantic Monthly,* September 2016.
+- Adom Getachew and Naomi Kebede, “[Monument Gallery](https://academic.oup.com/ahr/article/127/2/831/6705144),” *American Historical Review* 127, no. 2 (2022): 831–46.  
+     
 
 ### Week 11: NO CLASS: Thanksgiving
 
