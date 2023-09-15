@@ -85,7 +85,7 @@ Eiko Maruko Siniawer, *Waste: Consuming Postwar Japan* (Cornell University Pres
 
 ### Week Nine: Writing from Oral Sources: Nairobi, Kenya
 
-Assignment due: Response paper
+Kenda Mutongi, *Matatu: A History of Popular Transportation in Nairobi* (University of Chicago Press, 2017). ISBN: ‎9780226471396. \[Preview with [Google Books](https://www.google.com/books/edition/Matatu/X5YtDwAAQBAJ?hl=en&gbpv=1)\]
 
 ### Week 10: History, Commemoration, and Truth and Reconciliation
 
