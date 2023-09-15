@@ -52,7 +52,7 @@ uid: a0b11dfa-cb8e-41f4-8ff7-d699e9429a57
 - Shalene Sayegh and Eric Altice, “The Importance of Theory in History,” in *History and Theory* (Pearson, 2013). ISBN: ‎9780136157250. 
 - Michel Foucault, *Discipline & Punish*, esp. Pt. I, ch. 1, (pp. 1–31); Part III entire (pp. 135–228)  Vintage Books, 1995. ISBN: 9780679752554. \[Preview with [Google Books](https://www.google.com/books/edition/Discipline_and_Punish/6rfP0H5TSmYC?hl=en&gbpv=1)\]
 - Patricia O'Brien, “Michel Foucault's History of Culture,” in *The New Cultural History* (University of California Press, 1989). ISBN: ‎9780520064294. \[Preview with [Google Books](https://www.google.com/books/edition/The_New_Cultural_History/hYocRS2OkIwC?hl=en&gbpv=1)\]
-- Regina Kunzel, “[Queer History, Mad History, and the Politics of Health](https://www.proquest.com/docview/1994439233?parentSessionId=lN5R%2BB7kA8Wco77fHG%2BrV2iDpBDxwzu3VlTqQnPqDZc%3D).” *American Quarterly* 69, no. 2 (2017): 315–19.
+- Regina Kunzel, “[Queer History, Mad History, and the Politics of Health](https://muse.jhu.edu/article/663330).” *American Quarterly* 69, no. 2 (2017): 315–19.
 - M.J. Fuentes, “[Power and Historical Figuring: Rachael Pringle Polgreen's Troubled Archive](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0424.2010.01616.x),” *Gender & History* 22, no. 3 (2010): 564–84.
 
 ### Week Five: NO CLASS
@@ -93,15 +93,8 @@ No readings assigned.
 - Richard H. Kohn, “[History and the Culture Wars: The Case of the Smithsonian Institution’s Enola Gay Exhibition](https://www.jstor.org/stable/2945111).” *Journal of American History* 82, no. 3 (1995): 1036–63.
 - American Historical Association, “[Statement on Confederate Monuments ( August 2017)](https://www.historians.org/news-and-advocacy/aha-advocacy/aha-statement-on-confederate-monuments).”
 - Graham Allison and Niall Ferguson, “[Why the US President Needs a Council of Historians](https://www.theatlantic.com/magazine/archive/2016/09/dont-know-much-about-history/492746/),” *Atlantic Monthly,* September 2016.
-- Adom Getachew and Naomi Kebede, “[Monument Gallery](https://academic.oup.com/ahr/article/127/2/831/6705144),” *American Historical Review* 127, no. 2 (2022): 831–46.  
-     
+- Adom Getachew and Naomi Kebede, “[Monument Gallery](https://academic.oup.com/ahr/article/127/2/831/6705144),” *American Historical Review* 127, no. 2 (2022): 831–46.  
 
-### Week 11: NO CLASS: Thanksgiving
+### Week 11–14
 
-### Week 12: Research presentations
-
-### Week 13: Research presentations
-
-### Week 14
-
-Assignment due: Final paper
+No readings assigned.
