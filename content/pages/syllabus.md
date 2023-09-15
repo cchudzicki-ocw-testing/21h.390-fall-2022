@@ -23,6 +23,8 @@ Kenda Mutongi, *Matatu: A History of Popular Transportation in Nairobi* (Univers
 
 Eiko Maruko Siniawer, *Waste: Consuming Postwar Japan* (Cornell University Press, 2018). ISBN: ‎9781501725845. \[Preview with [Google Books](https://www.google.com/books/edition/Waste/1kFQDwAAQBAJ?hl=en&gbpv=1)\] 
 
+For additional readings, see the {{% resource_link "a0b11dfa-cb8e-41f4-8ff7-d699e9429a57" "Readings" %}} section.
+
 ### Grading Policy
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
@@ -46,3 +48,5 @@ Oral presentations 
 {{< tdclose >}}{{< tdopen >}}
 15%
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
+
+For detail on the activities above, see the {{% resource_link "5423a679-f998-4cbb-bcc1-cc48fc86f8c4" "Assignments" %}} section.
