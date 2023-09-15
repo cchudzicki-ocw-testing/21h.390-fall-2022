@@ -57,7 +57,7 @@ uid: a0b11dfa-cb8e-41f4-8ff7-d699e9429a57
 
 ### Week Five: NO CLASS
 
-No readings assigned.
+- No readings assigned.
 
 ## III. Sources Used by Historians
 
@@ -95,6 +95,6 @@ No readings assigned.
 - Graham Allison and Niall Ferguson, “[Why the US President Needs a Council of Historians](https://www.theatlantic.com/magazine/archive/2016/09/dont-know-much-about-history/492746/),” *Atlantic Monthly,* September 2016.
 - Adom Getachew and Naomi Kebede, “[Monument Gallery](https://academic.oup.com/ahr/article/127/2/831/6705144),” *American Historical Review* 127, no. 2 (2022): 831–46.  
 
-### Week 11–14
+### Weeks 11–14
 
-No readings assigned.
+- No readings assigned.
