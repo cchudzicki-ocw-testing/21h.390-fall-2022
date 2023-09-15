@@ -74,7 +74,13 @@ No readings assigned.
 
 ### Week Seven: Writing from Environment
 
-Assignment due: Response paper
+Kate Brown, “[Learning to read the great Chernobyl acceleration: literacy in the more-than-human landscapes](https://www.journals.uchicago.edu/doi/full/10.1086/702901).” *Current Anthropology* 60, no. S20 (2019): 198–208.
+
+———. “Green Privilege.”
+
+Bathsheba Demuth, “[The walrus and the bureaucrat: Energy, ecology, and making the state in the Russian and American Arctic, 1870–1950](https://academic.oup.com/ahr/article/124/2/483/5426289).” *American Historical Review* 124, no. 2 (2019): 483–510.
+
+Sunil Amrith, “[Risk and the South Asian monsoon](https://www.researchgate.net/publication/295249111_Risk_and_the_South_Asian_monsoon).” *Climatic Change* 151, no. 1 (2018): 17–28.
 
 ### Week Eight: Doing Conceptual History: Japan
 
